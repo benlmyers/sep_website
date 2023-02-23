@@ -51,74 +51,74 @@ export default {
           'image': 'Neha Bhongir.jpg',
           'title': 'Neha Bhongir',
 		  'role' : 'President',
-		  'description' : 'Lorem ipsum'
+		  'description' : ''
         },
         {
           'image': 'Elli.jpg',
           'title': 'Eli Pellot',
 		  'role' : 'President',
-		  'description' : 'Lorem ipsum'
+		  'description' : ''
         },
         {
           'image': 'Pallavi.jpg',
           'title': 'Pallavi Jayaraman',
 		  'role' : 'Vice President of Professional Affairs',
-		  'description' : 'Lorem ipsum'
+		  'description' : ''
         },
 		{
           'image': 'Cynthia.jpg',
           'title': 'Cynthia Gong',
 		  'role' : 'Vice President of Professional Affairs',
-		  'description' : 'Lorem ipsum'
+		  'description' : ''
         },
 		{
           'image': 'Ben.jpg',
           'title': 'Ben Myers',
 		  'role' : 'Director of Operations and Technology',
-		  'description' : 'Lorem ipsum'
+		  'description' : ''
         },
 		{
           'image': 'Neal.jpg',
           'title': 'Neal Agrawal',
 		  'role' : 'Director of Finance',
-		  'description' : 'Lorem ipsum'
+		  'description' : ''
         },
 		{
           'image': 'Melissa.jpg',
           'title': 'Melissa Chen',
 		  'role' : 'Director of Marketing',
-		  'description' : 'Lorem ipsum'
+		  'description' : ''
         },
 		{
           'image': 'Vicky.jpg',
           'title': 'Vicky Jen',
 		  'role' : 'Director of Media',
-		  'description' : 'Lorem ipsum'
+		  'description' : ''
         },
 		{
           'image': 'Yeon.jpg',
           'title': 'Yeon Joo Naam',
 		  'role' : 'Director of Design',
-		  'description' : 'Lorem ipsum'
+		  'description' : ''
         },
 		{
           'image': 'Kiel.jpg',
           'title': 'Kiel Messinger',
 		  'role' : 'Rush Chair',
-		  'description' : 'Lorem ipsum'
+		  'description' : ''
         },
 		{
           'image': 'Emily.jpg',
           'title': 'Emily Glazer',
 		  'role' : 'Rush Chair',
-		  'description' : 'Lorem ipsum'
+		  'description' : ''
         },
 		
 		{
           'image': 'Natalia.jpg',
           'title': 'Natalia Luzuriaga',
 		  'role' : 'Director of Alumni Relations',
-		  'description' : 'Lorem ipsum'
+		  'description' : ''
         },
 		
       ],
