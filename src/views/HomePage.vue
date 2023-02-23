@@ -47,7 +47,7 @@
           <div class="container">
             <div class="wherewework-main text-center">
               <h1>What we've founded</h1>
-              <img src= "../assets/img/what weve started.png" alt="">
+              <img src= "../assets/img/startups.png" alt="">
           </div>
         </div>
       </div>
